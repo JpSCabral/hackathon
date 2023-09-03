@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 25px;
+    box-shadow: 0 1px 1px 0px #000;
+    display: flex;
+    justify-content: center; 
+}
+#headerftt{
+    
+    height: 70px;
+}
+a{
+    text-decoration: none;
+}
+a img{
+    height: 32px;
+}
+/* .cartao{
+    border-bottom: 1px solid #000;
+
+} */
+ul li{
+    list-style: none;
+}
